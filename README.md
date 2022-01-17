@@ -22,7 +22,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click here](https://elyasthr.github.io/nft-preview-card-component/)
 
 ## My process
 
