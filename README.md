@@ -36,4 +36,3 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Continued development
 
 Recreat the same project with React components and SASS
-ces that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
